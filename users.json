@@ -1,1 +1,1 @@
-{"users": [{"ja": "je"}, {"name": "jose", "password": "lalala", "age": 36}]}
+{"users": [{"ja": "je"}, {"name": "jose", "password": "lalala", "age": 36}, {"name": "jose", "password": "lalala", "age": 36}]}
